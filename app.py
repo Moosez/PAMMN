@@ -1,0 +1,1 @@
+execfile('/flaskr/__init__.py')
