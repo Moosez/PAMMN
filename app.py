@@ -1,1 +1,1 @@
-execfile('/flaskr/__init__.py')
+execfile('flaskr/__init__.py')
